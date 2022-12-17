@@ -1,2 +1,2 @@
-# DataScience2021C
-University class
+# DataScience_project_2021
+data_science_AI group project
