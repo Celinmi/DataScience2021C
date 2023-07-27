@@ -1,2 +1,2 @@
 # DataScience_project_2021
-data_science_AI group project
+data_science group project
